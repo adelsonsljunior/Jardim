@@ -16,9 +16,3 @@ O Menu possui as seguintes opções:
 + Colocar Planta no Sol
 + Remover Planta
 + Sair do Jardim
-
-<br>
-
-<div style="display: inline_block">
-   <img alt="java" src="https://static.javatpoint.com/core/images/java-logo3.png">
-</div>
