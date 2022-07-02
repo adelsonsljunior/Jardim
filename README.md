@@ -16,3 +16,9 @@ O Menu possui as seguintes opções:
 + Colocar Planta no Sol
 + Remover Planta
 + Sair do Jardim
+
+<br>
+
+<div style="display: inline_block">
+   <img alt="java" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo-600x336.png">
+</div>
