@@ -20,5 +20,5 @@ O Menu possui as seguintes opções:
 <br>
 
 <div style="display: inline_block">
-   <img alt="java" src="https://marcas-logos.net/wp-content/uploads/2020/11/Java-logo-600x336.png">
+   <img alt="java" src="https://static.javatpoint.com/core/images/java-logo3.png">
 </div>
